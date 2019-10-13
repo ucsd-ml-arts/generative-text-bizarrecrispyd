@@ -1,34 +1,36 @@
-# Project 1 Generative Text
+# Project 1 Generative Text - Magic Spice for Love Letter
 
-Your Name, yourcontact@ucsd.edu
+Yudi Wang, yuw043@ucsd.edu
 
-(Your teammate's contact info, if appropriate)
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+Love letter is a traditional but still popular way to move our loves; yet write an successful one is hard. What's the key elements that makes the unique love letter in the world? In what way it impress people? In this project, RNN is adopted to generate brand new love letter according to the sample love letter collected via internet. In the first stage, we only adopt the short love letter graph dataset; but in later stage, I will try to mix some poetic sentences, famous love letter in the history and also short stories to make it seems more authentic. After doing all of that, I'll mix really love letters with those fake ones and invite several friends to make judgement and give comment. If the error rate is around or even lower than the mixture rate, which means they are just doing random guess, I think this project is quite successful.
+
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data). what is your corpus?
+
+- trained models - RNN
+- training data. 
+  - First, short sample love letter collected via internet; 
+  - second, short sample love letter mixed with some poetic sentences, famous love letter in the history and also short stories.
+
 
 ## Code
 
-Your code for generating your project:
-- training_code.py or training_code.ipynb - your training code
-- generative_code.py or generative_code.ipynb - your generation code
+Related code for generating this project:
+- loveletter.ipynb - training code
+
 
 ## Results
 
-- Documentation of your generative text in an effective form. A file with your generated text (.pdf, .doc, .txt). 
 
 ## Technical Notes
 
 Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+- Does this code require other pip packages, software, etc? No
+- Does it run on some other (non-datahub) platform? (CoLab, etc.) No
 
 ## Reference
 
