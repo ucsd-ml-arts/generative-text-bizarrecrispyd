@@ -39,7 +39,7 @@ The correct rate of my friends: *PH: 20%, LZZ: 80%, ZTT: 0%, LZY: 40%*, which va
 Algorithm can learn words, grammer and even mimic the poem-like strcture, but it cannot provide a reasonable writing logic. Some sentences has no relationship with the previous sentences. Even for the poems, you cannot feel the logic and also the emotion is not continuous in these paragraph.
 
 2.Non-native speaker cannot tell the subtle differences in the questionnaire
-However, for those who don't use English as their daily language, that is, foreigners just like me. We cannot tell these small points and thus our judgement are made according to other baseline, which are shown as below:
+For those who don't use English as their daily language, that is, foreigners just like me. We cannot tell these small weired points directly and thus our judgement are made according to other baseline, which are shown as below:
 
  - too many sentences begins with "I"
  - struture are simple and no complex words
