@@ -1,3 +1,5 @@
+<div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/xghwo1yhay9b" data-wordart-show-attribution></div>
+
 # Project 1 Generative Text - Magic Spice for Love Letter
 
 Yudi Wang, yuw043@ucsd.edu
