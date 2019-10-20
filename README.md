@@ -1,4 +1,4 @@
-<div style="width: 400px; height: 400px;" data-wordart-src="//cdn.wordart.com/json/xghwo1yhay9b" data-wordart-show-attribution></div>
+![word cloud](https://cdn.wordart.com/json/xghwo1yhay9b)
 
 # Project 1 Generative Text - Magic Spice for Love Letter
 
