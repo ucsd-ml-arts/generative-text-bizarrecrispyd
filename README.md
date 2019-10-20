@@ -1,4 +1,4 @@
-![word cloud](https://cdn.wordart.com/json/xghwo1yhay9b)
+![word cloud](https://github.com/ucsd-ml-arts/generative-text-bizarrecrispyd/blob/master/word%20cloud.png)
 
 # Project 1 Generative Text - Magic Spice for Love Letter
 
