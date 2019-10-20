@@ -51,3 +51,4 @@ However, for those who don't use English as their daily language, that is, forei
 
 ## Further Step
 
+Using bigger dataset and further tuning the parameters should made the result better.
