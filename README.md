@@ -1,8 +1,9 @@
-![word cloud](https://github.com/ucsd-ml-arts/generative-text-bizarrecrispyd/blob/master/word%20cloud.png)
 
 # Project 1 Generative Text - Magic Spice for Love Letter
 
 Yudi Wang, yuw043@ucsd.edu
+
+![word cloud](https://github.com/ucsd-ml-arts/generative-text-bizarrecrispyd/blob/master/word%20cloud.png =100x20)
 
 
 ## Abstract
