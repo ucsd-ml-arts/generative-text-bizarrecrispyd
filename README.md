@@ -4,7 +4,7 @@
 Yudi Wang, yuw043@ucsd.edu
 
 <img src="https://github.com/ucsd-ml-arts/generative-text-bizarrecrispyd/blob/master/word%20cloud.png" width="400">
-Word Cloud generated according to word frequency of the dataset.
+（Above is the Word Cloud generated according to word frequencies in the dataset）
 
 ## Abstract
 
