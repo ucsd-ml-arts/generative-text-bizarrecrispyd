@@ -3,7 +3,7 @@
 
 Yudi Wang, yuw043@ucsd.edu
 
-![word cloud](https://github.com/ucsd-ml-arts/generative-text-bizarrecrispyd/blob/master/word%20cloud.png =100x20)
+<img src="https://github.com/ucsd-ml-arts/generative-text-bizarrecrispyd/blob/master/word%20cloud.png" width="200">
 
 
 ## Abstract
